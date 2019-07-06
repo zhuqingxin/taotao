@@ -1,0 +1,9 @@
+# common
+.idea
+.project
+.settings
+.classpath
+
+# maven
+**/target
+**/src/test
